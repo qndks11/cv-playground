@@ -1,2 +1,2 @@
-# MNIST
-Classifying MNIST dataset using CNN.
+# cv-playground
+Computer Vision
